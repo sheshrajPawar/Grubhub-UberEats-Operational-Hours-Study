@@ -49,8 +49,23 @@ Grubhub
 
 | Grubhub slug | Virtual Restuarant Business Hours| Uber Eats slug | Uber Eats Business Hours | is_out_range (expected output) |
 |----------|----------|--------- |---------- |------- |
-|          |          |          |           |In Range
-Out of Range  Out of Range with 5 mins difference between GH and UE|
+|          |          |          |           |In Range |
+|          |          |          |           |Out of Range |
+|          |          |          |           |Out of Range with 5 mins difference between GH and UE|
+
+## Submission instructions
+
+Send us a SQL or sets of SQL that ouputs data in this format.
+
+# Tips
+< br / > 
+
+1.Please use your personal BigQuery, it is free. ( https://cloud.google.com/bigquery/public-data/ ⇒ click on Go to analytics hub , https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox , https://towardsdatascience.com/bigquery-without-a-credit-card-discover-learn-and-share-199e08d4a064 )
+
+
+
+
+
                                               
 
 
