@@ -37,12 +37,16 @@ Note: daysBitArray starts with Monday and indicates the days of the week for thi
 
 ![image](https://github.com/user-attachments/assets/99c06ab9-2867-43e4-bb7c-7ccf79034294)
 
-Grubhub Business Hours
+## Grubhub Business Hours
 
 Grubhub
 
-Virtual Restaurant ID (slug)	JSON response (response)	Link to Block
-johnspizz_sicilianpi_gh	SELECT response FROM arboreal-vision-339901.take_home_v2.virtual_kitchen_grubhub_hours LIMIT 1000;	
+| Virtual Restaurant ID (slug) | JSON response (response) | Link to Block |
+|----------|----------|---------|
+| johnspizz_sicilianpi_gh   | SELECT response FROM arboreal-vision-339901.take_home_v2.virtual_kitchen_grubhub_hours LIMIT 1000;	
+  | cell 3 |
+
+
 
 
 
