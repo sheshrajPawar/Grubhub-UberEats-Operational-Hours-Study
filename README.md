@@ -7,7 +7,8 @@ If a store's business hours on one platform do not match the hours listed on ano
 Ensuring that a store's business hours are the same across all food delivery platforms is a key operational metric.
 Example of business hours in Doordash
 
-![image](https://github.com/user-attachments/assets/fa2df0b7-0432-4bab-9dd4-caaf1e13332c)
+![image](https://github.com/user-attachments/assets/1adfb3c1-df71-4dcc-8514-2a9bc3d8bfd9)
+
 
 ## Goal
 
@@ -34,8 +35,8 @@ Uber Eats Business Hours
 Take the first key value pair in the menu dictionary and the first section and assume that as the store business hours.
 Note: daysBitArray starts with Monday and indicates the days of the week for this time window is applicable. The might be more than element in the regularHours array.
 
+![image](https://github.com/user-attachments/assets/bd2160d7-d46d-4db1-8c96-df0f118841c9)
 
-![image](https://github.com/user-attachments/assets/99c06ab9-2867-43e4-bb7c-7ccf79034294)
 
 ## Grubhub Business Hours
 
@@ -45,7 +46,8 @@ Grubhub
 |----------|----------|---------|
 | johnspizz_sicilianpi_gh   | SELECT response FROM arboreal-vision-339901.take_home_v2.virtual_kitchen_grubhub_hours LIMIT 1000;	
 
-![image](https://github.com/user-attachments/assets/5a5e0760-5b37-4155-a1fb-811e44283e46)
+![image](https://github.com/user-attachments/assets/f81670d9-8905-430c-8bcf-4c347374ccdb)
+
 
 | Grubhub slug | Virtual Restuarant Business Hours| Uber Eats slug | Uber Eats Business Hours | is_out_range (expected output) |
 |----------|----------|--------- |---------- |------- |
@@ -61,8 +63,8 @@ Send us a SQL or sets of SQL that ouputs data in this format.
 
 
 1.Please use your personal BigQuery, it is free. ( https://cloud.google.com/bigquery/public-data/ ⇒ click on Go to analytics hub , https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox , https://towardsdatascience.com/bigquery-without-a-credit-card-discover-learn-and-share-199e08d4a064 )
+![image](https://github.com/user-attachments/assets/9b3445a6-65c1-43b3-92a4-e234d63ffb9d)
 
-![image](https://github.com/user-attachments/assets/d4163265-9c78-44b0-a134-2cfd454e95a0)
 
 2.You can view the data once you open BigQuery and run from this table.
 
