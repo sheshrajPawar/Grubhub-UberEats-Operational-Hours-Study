@@ -50,8 +50,8 @@ Grubhub
 | Grubhub slug | Virtual Restuarant Business Hours| Uber Eats slug | Uber Eats Business Hours | is_out_range (expected output) |
 |----------|----------|--------- |---------- |------- |
 |          |          |          |           |In Range
-                                              Out of Range
-                                              Out of Range with 5 mins difference between GH and UE|
+Out of Range  Out of Range with 5 mins difference between GH and UE|
+                                              
 
 
 
