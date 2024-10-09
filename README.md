@@ -62,6 +62,22 @@ Send us a SQL or sets of SQL that ouputs data in this format.
 
 1.Please use your personal BigQuery, it is free. ( https://cloud.google.com/bigquery/public-data/ ⇒ click on Go to analytics hub , https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox , https://towardsdatascience.com/bigquery-without-a-credit-card-discover-learn-and-share-199e08d4a064 )
 
+![image](https://github.com/user-attachments/assets/d4163265-9c78-44b0-a134-2cfd454e95a0)
+
+2.You can view the data once you open BigQuery and run from this table.
+
+3.Please use json parsing and do not use regex.
+
+4.There is a way to write the SQL without brute forcing all day combinations etc, we would strongly prefer that.
+
+5.Some starting point that might help https://stackoverflow.com/questions/34890339/how-to-extract-all-the-keys-in-a-json-object-with-bigquery
+Slug is a unique idenfitier for a store
+
+6.If there are multiple entries for a store, use the one with the latest timestamp.
+
+7.You can use unnest to flatten business hours array in JSON
+
+
 
 
 
