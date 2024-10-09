@@ -58,7 +58,7 @@ Grubhub
 Send us a SQL or sets of SQL that ouputs data in this format.
 
 # Tips
-< br / > 
+
 
 1.Please use your personal BigQuery, it is free. ( https://cloud.google.com/bigquery/public-data/ ⇒ click on Go to analytics hub , https://cloud.google.com/blog/products/data-analytics/query-without-a-credit-card-introducing-bigquery-sandbox , https://towardsdatascience.com/bigquery-without-a-credit-card-discover-learn-and-share-199e08d4a064 )
 
