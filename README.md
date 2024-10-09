@@ -44,7 +44,21 @@ Grubhub
 | Virtual Restaurant ID (slug) | JSON response (response) | Link to Block |
 |----------|----------|---------|
 | johnspizz_sicilianpi_gh   | SELECT response FROM arboreal-vision-339901.take_home_v2.virtual_kitchen_grubhub_hours LIMIT 1000;	
-  | cell 3 |
+
+![image](https://github.com/user-attachments/assets/5a5e0760-5b37-4155-a1fb-811e44283e46)
+
+| Grubhub slug | Virtual Restuarant Business Hours| Uber Eats slug | Uber Eats Business Hours | is_out_range (expected output) |
+|----------|----------|--------- |---------- |------- |
+                                             | In Range
+                                              Out of Range
+                                              Out of Range with 
+                                              5 mins difference 
+                                              between GH and UE |
+
+
+
+
+
 
 
 
